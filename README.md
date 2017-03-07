@@ -1,2 +1,5 @@
 # viruses
-repository of all spam with viruses I've found
+
+Hello,
+
+I'm collecting all spam with viruses I've found.
