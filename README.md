@@ -2,4 +2,4 @@
 
 Hello,
 
-I'm collecting all spam with viruses I've found.
+I'm collecting all spam with viruses I find.
