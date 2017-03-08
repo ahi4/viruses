@@ -1,6 +1,6 @@
 # viruses
 
-The e-mail in the screenshot has the link: http://afpke.realtopaweb.su/ as the address to get some legal drugs.
+The e-mail in the [https://github.com/ricoms/viruses/blob/master/spam%20VIAGRA%2BCIALIS/Screenshot%20from%202017-03-08%2000-00-28.png](creenshot from 2017-03-08 00-00-28.png) has the link: http://afpke.realtopaweb.su/ as the address to get some legal drugs.
 
 .su (from wikipedia) was assigned as the country code top-level domain (ccTLD) for the Soviet Union (USSR) on 19 September 1990. And by the guardian (https://www.theguardian.com/technology/2013/may/31/ussr-cybercriminals-su-domain-space) it's considered a ussr is a cybercriminal haven.
 
