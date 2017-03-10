@@ -1,8 +1,8 @@
 # viruses
 
-The e-mail in **[Screenshot from 2017-03-09 22-29-35.png](https://github.com/ricoms/viruses/blob/master/spam%20WDD%20ADVOCACIA%20(js%20virus)/Screenshot%20from%202017-03-09%2022-29-35.png)** has a that says: "Decisão do Ofício nº 54772/2016" to the link: http://urlz.fr/4Vp8 that redirects to IP 35.154.93.76, and automatically downloads file: **Oficio.zip** with **[Oficio.js](https://github.com/ricoms/viruses/blob/master/spam%20WDD%20ADVOCACIA%20(js%20virus)/Oficio.js)** inside.
+The e-mail in **[Screenshot from 2017-03-09 22-29-35.png](https://github.com/ricoms/viruses/blob/master/virus%20javascript%20-%20spam%20WDD%20ADVOCACIA/Screenshot%20from%202017-03-09%2022-29-35.png)** has a that says: "Decisão do Ofício nº 54772/2016" to the link: http://urlz.fr/4Vp8 that redirects to IP 35.154.93.76, and automatically downloads file: **Oficio.zip** with **[Oficio.js](https://github.com/ricoms/viruses/blob/master/virus%20javascript%20-%20spam%20WDD%20ADVOCACIA/Oficio.js)** inside.
 
-And from http://getlinkinfo.com/info?link=http%3A%2F%2Furlz.fr%2F4Vp8&x=35&y=7 I got the information it's a safe brownsing url, malware-free and safe to visit (**[Screenshot from 2017-03-09 22-38-02.png](https://github.com/ricoms/viruses/blob/master/spam%20WDD%20ADVOCACIA%20(js%20virus)/Screenshot%20from%202017-03-09%2022-38-02.png)**).
+And from http://getlinkinfo.com/info?link=http%3A%2F%2Furlz.fr%2F4Vp8&x=35&y=7 I got the information it's a safe brownsing url, malware-free and safe to visit (**[Screenshot from 2017-03-09 22-38-02.png](https://github.com/ricoms/viruses/blob/master/virus%20javascript%20-%20spam%20WDD%20ADVOCACIA/Screenshot%20from%202017-03-09%2022-38-02.png)**).
 
 from https://whoislookupdb.com/whois-35.154.93.76 I get that it comes from India, region Maharashtra and points to http://www.iana.org/ (Internet Assigned Numbers Authority- IANA) website with no abuse email...
 
