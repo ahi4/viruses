@@ -1,9 +1,9 @@
 # viruses
 
 
-The e-mail in the **[Screenshot from 2017-03-07 23-25-20.png](https://github.com/ricoms/viruses/blob/master/spam%20santader%20smiles%20gol%20(fake%20bank%20web%20site)/Screenshot%20from%202017-03-07%2023-25-20.png)** has the link: http://www.santander.com.br/centralderelacionamento/smiles.gol/ but behind it really is this linK: http://www.decoratiehoens.be/modules/mod_related_items/tmpl/default.jpg
+The e-mail in the **[Screenshot from 2017-03-07 23-25-20.png](https://github.com/ricoms/viruses/blob/master/fake%20bank%20website%20-%20spam%20santader%20smiles%20gol/Screenshot%20from%202017-03-07%2023-25-20.png)** has the link: http://www.santander.com.br/centralderelacionamento/smiles.gol/ but behind it really is this linK: http://www.decoratiehoens.be/modules/mod_related_items/tmpl/default.jpg
 
-That get us to a very cool website, as seen in **[Screenshot from 2017-03-07 23-29-14.png](https://github.com/ricoms/viruses/blob/master/spam%20santader%20smiles%20gol%20(fake%20bank%20web%20site)/Screenshot%20from%202017-03-07%2023-29-14.png)** screenshot, and masked with the previous url: http://www.santander.com.br/centralderelacionamento/smiles.gol/
+That get us to a very cool website, as seen in **[Screenshot from 2017-03-07 23-29-14.png](https://github.com/ricoms/viruses/blob/master/fake%20bank%20website%20-%20spam%20santader%20smiles%20gol/Screenshot%20from%202017-03-07%2023-29-14.png)** screenshot, and masked with the previous url: http://www.santander.com.br/centralderelacionamento/smiles.gol/
 
 Pinging the url www.decoratiehoens.be I've got the IP 178.18.136.226, checkin whois that IP, I've got two different email contacts for abuse report: abuse@nedzone.nl (got from https://askdns.com/whois/178.18.136.226) and 
 abuse@ripe.net (got from https://who.is/whois-ip/ip-address/178.18.136.226/). 
