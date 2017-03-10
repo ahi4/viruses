@@ -1,6 +1,6 @@
 # viruses
 
-The e-mail in the **[Screenshot from 2017-03-09 23-54-41.png]()** has a link to http://www.mmf.enu.kz/plugins/user/seguro.png/ that redirects to  http://www.sikhorhsp.com/media/media/js/Portal_Seguro/acesso/1_acessar.php?03,44-43,10,03-17,am#cod/acessar/conta/index.jsf and gives us access to the website seen in **[Screenshot from 2017-03-09 23-55-41.png]()**, a fake bank website.
+The e-mail in the **[Screenshot from 2017-03-09 23-54-41.png](https://github.com/ricoms/viruses/blob/master/fake%20bank%20website%20-%20spam%20%5BBanco%20Santander%20S.A.%5D%20-%20Comunicado%20Importante/Screenshot%20from%202017-03-09%2023-54-41.png)** has a link to http://www.mmf.enu.kz/plugins/user/seguro.png/ that redirects to  http://www.sikhorhsp.com/media/media/js/Portal_Seguro/acesso/1_acessar.php?03,44-43,10,03-17,am#cod/acessar/conta/index.jsf and gives us access to the website seen in **[Screenshot from 2017-03-09 23-55-41.png](https://github.com/ricoms/viruses/blob/master/fake%20bank%20website%20-%20spam%20%5BBanco%20Santander%20S.A.%5D%20-%20Comunicado%20Importante/Screenshot%20from%202017-03-09%2023-55-41.png)**, a fake bank website.
 
 The url http://www.mmf.enu.kz/plugins/user/seguro.png/ resides at JSC Kazakhtelecom in Kazakhstan (L.N. Gumilyov Eurasian National University), IP 5.63.119.40, and points out the contact admin@enu.kz (info from: http://www.ip-adress.com/whois/enu.kz). And it also gets us the email abuse@telecom.kz (info from: http://5.63.119.40.ipaddress.com/).
 
