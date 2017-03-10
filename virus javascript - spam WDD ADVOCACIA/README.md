@@ -8,7 +8,7 @@ from https://whoislookupdb.com/whois-35.154.93.76 I get that it comes from India
 
 From http://rdpguard.com/free-whois.aspx?ip=35.154.93.76 I get that it comes from USA - Massachusetts and gives me the abuse@amazonaws.com contact.
 
-I sent an email, called @awscloud from twitter and aske for their stupid form to fill.
+I sent an email, called @awscloud from twitter and aske for their, not helpful, form to fill.
 
 # email header origin:
 
