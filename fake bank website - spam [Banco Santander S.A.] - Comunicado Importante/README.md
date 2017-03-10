@@ -2,7 +2,7 @@
 
 The e-mail in the **[Screenshot from 2017-03-09 23-54-41.png]()** has a link to http://www.mmf.enu.kz/plugins/user/seguro.png/ that redirects to  http://www.sikhorhsp.com/media/media/js/Portal_Seguro/acesso/1_acessar.php?03,44-43,10,03-17,am#cod/acessar/conta/index.jsf and gives us access to the website seen in **[Screenshot from 2017-03-09 23-55-41.png]()**, a fake bank website.
 
-The url http://www.mmf.enu.kz/plugins/user/seguro.png/ resides at JSC Kazakhtelecom in Kazakhstan, IP 5.63.119.40, and points out the contact admin@enu.kz (info from: http://www.ip-adress.com/whois/enu.kz). And it also gets us the email abuse@telecom.kz (info from: http://5.63.119.40.ipaddress.com/).
+The url http://www.mmf.enu.kz/plugins/user/seguro.png/ resides at JSC Kazakhtelecom in Kazakhstan (L.N. Gumilyov Eurasian National University), IP 5.63.119.40, and points out the contact admin@enu.kz (info from: http://www.ip-adress.com/whois/enu.kz). And it also gets us the email abuse@telecom.kz (info from: http://5.63.119.40.ipaddress.com/).
 
 The url http://www.sikhorhsp.com/media/media/js/Portal_Seguro/acesso/1_acessar.php?03,44-43,10,03-17,am#cod/acessar/conta/index.jsf resides at 3BB Broadband in Thailand, IP 110.164.163.187, and points out the contact r99.thanawat@gmail.com. And it also gets us the email ipadmin@3bbmail.com (info from: http://110.164.163.187.ipaddress.com/).
 
