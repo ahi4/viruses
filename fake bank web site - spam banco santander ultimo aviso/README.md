@@ -7,7 +7,7 @@ I think the tibetencostarica domain/server is being used as an intermediary, may
 
 I tried to send a message to the tibetencostarica website, but their contact form does not work properly, and there is no other way of contact besides a telephone number.
 
-e-mail header origin:
+# e-mail header origin:
 
 Received: from FR1P152CA0051.LAMP152.PROD.OUTLOOK.COM (10.167.134.23) by
  RO1P152MB1482.LAMP152.PROD.OUTLOOK.COM (10.171.137.13) with Microsoft SMTP
