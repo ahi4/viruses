@@ -1,7 +1,7 @@
 # viruses
 
 
-The e-mail in the **[Screenshot from 2017-03-07 01-56-10.png](https://github.com/ricoms/viruses/blob/master/spam%20correios%20notificacao%20sedex%20(jar%20file%3F)/Screenshot%20from%202017-03-07%2001-56-10.png)** images direclty downloads the *DU019874535BR.6.zip* that contains *DU019874535BR.0.jar* file that I did not have time to tinker.
+The e-mail in the **[Screenshot from 2017-03-07 01-56-10.png](https://github.com/ricoms/viruses/blob/master/virus%20jar%20file%20-%20spam%20correios%20notificacao%20sedex/Screenshot%20from%202017-03-07%2001-56-10.png)** images direclty downloads the *DU019874535BR.6.zip* that contains *DU019874535BR.0.jar* file that I did not have time to tinker.
 
 The emails send us through a link: http://bit.ly/2lurexl
 
