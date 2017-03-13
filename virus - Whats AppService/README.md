@@ -7,7 +7,7 @@ http://callalilywines.com is a domain registered in Arizona, and a fast google s
 At DomainsByProxy.com website I see lots of information about Scams & Security, but no @abuse email neither found them on twitter.
 
 Note:
-callalilywines.com@domainsbyproxy.com is not a working email contact. I got abuse@godaddy.com at [nz.godaddy.com](https://nz.godaddy.com/whois/results.aspx?recaptchaResponse=03AI-r6f7iGaf39pdOEh2XJ2kJMk6QfrAICJi3yYLPXtQOOPKdk3phHdvrAxENhB975QBOc9XE1ymQ7b0rUmzVND-nD5pbmQh0z4ovrgq_vMlHPGHQor8UA9iDYt_sDJPBvEjU0rUxsx1UMdx5HXPRg_dzfb7d0IUvJZf68uy-JFCeVt9V_Ac7b6cNNVsXfbC7DlxnVU2BobfBUiPIj4s0kYNVZQY4krK3gjWFOYsDzextYuzx7ypdUTzZHU3Wzc5xDyTvFQb54peuiD3J083CcYeiYiCuz8BKTA&domain=callalilywines.com&prog_id=GoDaddy&pl_id=1)
+callalilywines.com@domainsbyproxy.com is not a working email contact. I got abuse@godaddy.com at [nz.godaddy.com](https://nz.godaddy.com/whois/results.aspx?recaptchaResponse=03AI-r6f7iGaf39pdOEh2XJ2kJMk6QfrAICJi3yYLPXtQOOPKdk3phHdvrAxENhB975QBOc9XE1ymQ7b0rUmzVND-nD5pbmQh0z4ovrgq_vMlHPGHQor8UA9iDYt_sDJPBvEjU0rUxsx1UMdx5HXPRg_dzfb7d0IUvJZf68uy-JFCeVt9V_Ac7b6cNNVsXfbC7DlxnVU2BobfBUiPIj4s0kYNVZQY4krK3gjWFOYsDzextYuzx7ypdUTzZHU3Wzc5xDyTvFQb54peuiD3J083CcYeiYiCuz8BKTA&domain=callalilywines.com&prog_id=GoDaddy&pl_id=1). After sending abuse@godaddy.com and email they answered me to report again to another email address depending on the case, I sent the report again to malware@godaddy.com
 
 The Sender IP of the email is 190.0.226.42 located in Costa Rica and an email contact cmoreno@CYBERFUEL.COM, information from https://myip.ms/info/whois/190.0.226.42. I did not find CyberFuel on twitter but they have this website: https://www.cyberfuel.com/
 
