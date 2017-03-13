@@ -6,6 +6,9 @@ The e-mail in the **[Screenshot from 2017-03-13 01-21-10.png](https://github.com
 http://callalilywines.com is a domain registered in Arizona, and a fast google search "whois callalilywines.com" returned, as 2nd result, a "Domains actively hosting malware", as seen in **[Screenshot from 2017-03-13 01-29-05.png](https://github.com/ricoms/viruses/blob/master/virus%20-%20Whats%20AppService/Screenshot%20from%202017-03-13%2001-29-05.png)**. And from http://www.statsinfinity.com/domain/sOw0tX-M7W1HEtvIz2xFdf0Hv6qPnX8T_info.html I got their IP 179.223.123.8 and a tech email contact callalilywines.com@domainsbyproxy.com, but nothing like an @abuse email.
 At DomainsByProxy.com website I see lots of information about Scams & Security, but no @abuse email neither found them on twitter.
 
+Note:
+callalilywines.com@domainsbyproxy.com is not a working email contact. I got abuse@godaddy.com at [nz.godaddy.com](https://nz.godaddy.com/whois/results.aspx?recaptchaResponse=03AI-r6f7iGaf39pdOEh2XJ2kJMk6QfrAICJi3yYLPXtQOOPKdk3phHdvrAxENhB975QBOc9XE1ymQ7b0rUmzVND-nD5pbmQh0z4ovrgq_vMlHPGHQor8UA9iDYt_sDJPBvEjU0rUxsx1UMdx5HXPRg_dzfb7d0IUvJZf68uy-JFCeVt9V_Ac7b6cNNVsXfbC7DlxnVU2BobfBUiPIj4s0kYNVZQY4krK3gjWFOYsDzextYuzx7ypdUTzZHU3Wzc5xDyTvFQb54peuiD3J083CcYeiYiCuz8BKTA&domain=callalilywines.com&prog_id=GoDaddy&pl_id=1)
+
 The Sender IP of the email is 190.0.226.42 located in Costa Rica and an email contact cmoreno@CYBERFUEL.COM, information from https://myip.ms/info/whois/190.0.226.42. I did not find CyberFuel on twitter but they have this website: https://www.cyberfuel.com/
 
 Case sent to their respective emails.
