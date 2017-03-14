@@ -13,7 +13,7 @@ I noticed one curious thing... The website header is "Seja bem vindo ao Internet
 
 **update**, @Digiweb_Ireland is not owner anymore, @hostopia 'bought' the responsability over IP 78.137.164.87 and did not update their info. @Digiweb_Ireland sent me @hostopia 's contact: support@host.ie and +353(21)2028058.
 
-I sent a twitter to @hostopia and an email to support@host.ie
+I sent a twitter to @hostopia and an email to support@host.ie. Later I also found @webdotcom on twitter, send him a twit (2017-03-13)
 
 # e-mail header origin:
 
