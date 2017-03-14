@@ -13,7 +13,7 @@ I noticed one curious thing... The website header is "Seja bem vindo ao Internet
 
 **update**, @Digiweb_Ireland is not owner anymore, @hostopia 'bought' the responsability over IP 78.137.164.87 and did not update their info. @Digiweb_Ireland sent me @hostopia 's contact: support@host.ie and +353(21)2028058.
 
-I sent a twitter to @hostopia and an email to support@host.ie. Later I also found @webdotcom on twitter, send him a twit (2017-03-13)
+I sent a twitter to @hostopia and an email to support@host.ie. Later I also found @webdotcom on twitter, send him a twit (2017-03-13) @webdotcom answered me "@Rico858 Domain is registered here, but we don't host. Points to 198.154.248.248. See WHOIS for abuse contact: http://bit.ly/2mEde6r  ^cc" in the url I found that abuse contact is ipadmin@websitewelcome.com
 
 # e-mail header origin:
 
